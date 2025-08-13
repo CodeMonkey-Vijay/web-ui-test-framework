@@ -1,0 +1,7 @@
+2025-08-13 22:25:48.507 | INFO     | controllers.base:goto:11 - Navigating to https://www.msn.com/en-us/weather/forecast/
+2025-08-13 22:25:49.114 | INFO     | controllers.base:fill:19 - Filling input[data-t*='WeaSearchLocation'] with Tokyo
+2025-08-13 22:25:50.439 | INFO     | controllers.base:click:15 - Clicking #locationSuggestions_0
+2025-08-13 22:25:52.007 | INFO     | controllers.base:get_text:24 - Text from #WeatherOverviewV2 h1: Shinjuku-Ku, Tokyo, Japan
+2025-08-13 22:25:53.891 | INFO     | controllers.base:goto:11 - Navigating to https://www.msn.com/en-us/weather/forecast/
+2025-08-13 22:25:56.652 | INFO     | controllers.base:goto:11 - Navigating to https://www.msn.com/en-us/weather/forecast/
+2025-08-13 22:25:57.288 | INFO     | controllers.base:click:15 - Clicking div[data-t*='settingCenterMainButton']
